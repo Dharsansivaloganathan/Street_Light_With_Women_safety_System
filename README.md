@@ -5,12 +5,12 @@ India is one of the busiest countries in the world in terms of road transportati
 
 SCOPE OF THE PROJECT: 
 
-*Fault light detection and early feedback
+* Fault light detection and early feedback
 
-*Safety Switch 
+* Safety Switch 
 
-*accident alert system
+* accident alert system
 
-*smart street light with motion detection 
+* smart street light with motion detection 
 
-*shot spotter and Air Quality
+* shot spotter and Air Quality
